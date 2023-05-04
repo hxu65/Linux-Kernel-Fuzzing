@@ -1,0 +1,27 @@
+start_time        : 1682717750
+last_update       : 1682734618
+fuzzer_pid        : 21129
+cycles_done       : 18405
+execs_done        : 71393979
+execs_per_sec     : 4278.06
+paths_total       : 24
+paths_favored     : 7
+paths_found       : 23
+paths_imported    : 0
+max_depth         : 12
+cur_path          : 3
+pending_favs      : 0
+pending_total     : 0
+variable_paths    : 0
+stability         : 100.00%
+bitmap_cvg        : 0.12%
+unique_crashes    : 0
+unique_hangs      : 0
+last_path         : 1682718448
+last_crash        : 0
+last_hang         : 0
+execs_since_crash : 71393979
+exec_timeout      : 20
+afl_banner        : challenge-RG
+afl_version       : 2.51b-ijon
+command_line      : afl-fuzz -d -i in-challenge -o out-challenge -x challenge.dict ./challenge-RG @@

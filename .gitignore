@@ -1,0 +1,20 @@
+# Binaries produced by "make".
+RG-IJON/afl-analyze
+RG-IJON/afl-as
+RG-IJON/afl-clang
+RG-IJON/afl-clang++
+RG-IJON/afl-fuzz
+RG-IJON/afl-g++
+RG-IJON/afl-gcc
+RG-IJON/afl-gotcpu
+RG-IJON/afl-showmap
+RG-IJON/afl-tmin
+RG-IJON/as
+
+# Binaries produced by "make -C llvm_mode"
+RG-IJON/afl-clang-fast
+RG-IJON/afl-clang-fast++
+RG-IJON/afl-llvm-pass.so
+RG-IJON/afl-llvm-rt-32.o
+RG-IJON/afl-llvm-rt-64.o
+RG-IJON/afl-llvm-rt.o
